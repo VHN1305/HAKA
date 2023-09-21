@@ -11,4 +11,4 @@ Cụ thể, từ các câu văn sentence như lời vào, và thực hiện vi�
   - pip install mathplotlib
   - pip install underthesea
   - pip install sklearn
-  - 
+
